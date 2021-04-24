@@ -1,0 +1,29 @@
+#baseurl: /rtry
+
+title: Vic.Wang
+url: https://vic.wang
+
+# rzp-key: rzp_test_JHnpJryvRjWVkF #test
+rzp-key: rzp_live_zHRVlE1ArZvSYS #live
+rzp-key: rzp_live_VrKAIcJw4tDfuK #live
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+
+sass:
+ style: compressed
+
+plugins:
+    - jekyll-seo-tag
+
+destination: public

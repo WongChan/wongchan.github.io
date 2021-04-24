@@ -1,0 +1,92 @@
+information:
+    title: Rotary Bangalore Indiranagar
+    description:
+    phone: +1 ‪234 2513652‬
+    email: vicwangc@aol.com
+    linkedin: https://www.linkedin.com/in/name
+    github: https://www.github.com/name
+    instagram: https://www.instagram.com/name
+    facebook: https://www.facebook.com/name
+    twitter:  https://twitter.com/name
+
+
+menus:
+    - title: Home
+      link: '#home'
+
+    - title: About Us
+      link: '#about'
+
+    - title: Focus Areas
+      link: '#our-focus'
+
+    - title: Projects
+      link: '#projects'
+
+    - title: Videos
+      link: '#videos'
+
+    - title: Contact Us
+      link: '#contact'
+
+    - title: Resume
+      link: 'resume'
+      external: yes
+
+    - title: Newsletters
+      link: 'newsletters'
+      external: yes
+
+focus:
+
+    - title: CS:GO_AWP
+      category: AWP
+      image: /images/projects/csgo_1.png
+      description: 高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和—枪—个的准则而为人熟知。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      link: focus-1
+      links: http://4399.com
+
+
+    - title: CS:GO_AK
+      category: AK
+      image: /images/projects/csgo_2.png
+      description: 强大又可靠，AK-47是世上最流行的突击步枪之一，近距离内控制好的短点射击极为致命。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      link: focus-2
+      links: http://4399.com
+
+
+    - title: CS:GO_M4
+      category: M4
+      image: /images/projects/csgo_3.png
+      description: 消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      link: focus-3
+      links: http://4399.com
+
+
+    - title: 我的博客
+      category: Blog
+      image: /images/myblog.png
+      description: "社会主义核心价值观：<br> 富强、民主、文明、和谐<br>自由、平等、公正、法治<br>爱国、敬业、诚信、友善"
+      link: focus-4
+      links: https://vic.wang/blog/
+
+
+
+#可以添加，自动列在后面
+projects: 
+    - title: VScode开发调试C/C++
+      image: /images/P-c.jpg
+      description: 主要讲如何在 vscode 上实现编译 / 运行 / 调试 C 以及 C++，如果是初学者，就请完全按照文章的步骤进行。<br> <a href="https://vic.wang/blog/vscode/2021/04/10/VScode%E5%86%99C/" target="_blank" > 查看全文 </a>
+      link: project-1
+      links: https://vic.wang/blog/vscode/2021/04/10/VScode%E5%86%99C/
+
+    - title: VScode写LaTex格式论文
+      image: /images/P-latex.jpg
+      description: Windows 和 Linux 都能使用 TeXLive 和 VSCode，VSCode 是一个非常好用的编辑器。<br> <a href="https://vic.wang/blog/vscode/2021/04/09/VScode%E5%86%99LaTex%E6%A0%BC%E5%BC%8F%E8%AE%BA%E6%96%87/" target="_blank" > 查看全文 </a>
+      link: project-2
+      links: https://vic.wang/blog/vscode/2021/04/09/VScode%E5%86%99LaTex%E6%A0%BC%E5%BC%8F%E8%AE%BA%E6%96%87/
+
+videos:
+    - id: K9_VFxzCuQ0
+    - id: CKZvWhCqx1s
+    - id: b73BI9eUkjM

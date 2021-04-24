@@ -1,0 +1,48 @@
+
+
+
+          <header>
+           <!-- Navigation Bar -->
+            <nav class="navbar navbar-default">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+                                    <i class="ion-ios-more-outline"></i>
+                                </button>
+                                <a class="navbar-brand" href="{{site.baseurl}}/">
+                                    <img width="180" src="{{site.baseurl}}/images/vicwang-logo.png" alt="{{site.data.data.information.title}}">         <!-- Replace with your logo -->
+                                </a>
+                            </div>
+                            <div class="collapse navbar-collapse navbar-right" id="navigation">
+                                <ul class="nav navbar-nav">          <!-- Menu -->
+                                   {% for item in site.data.data.menus %}
+                                   <li>
+                                       <a href="{{site.baseurl}}/{{item.link}}" class="scroll-link {% if page.url contains item.link %}active{% endif %}" >{{item.title}}</a>
+                                   </li>
+                                   {% endfor %}
+
+
+                                   <li class="scroll-link"><a href="http://wongchan.github.io/blog/" target="_blank"><span>Blog</span></a></li>
+                                     
+
+                                     <!-- <li>
+                                       <a style="cursor: pointer; outline: 0px;" class="" data-toggle="modal" data-target="#raaga">RaagaLahari</a>
+                                   </li>
+                                     -->
+
+                                    <li>
+                                        <a href="{{site.baseurl}}/donate/" class="btn-menu donate">Donate</a>          <!-- Menu Button -->
+                                    </li>
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+

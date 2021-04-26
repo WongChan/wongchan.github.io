@@ -76,13 +76,13 @@ focus:
 projects: 
     - title: VScode开发调试C/C++
       image: /images/P-c.jpg
-      description: 主要讲如何在 vscode 上实现编译 / 运行 / 调试 C 以及 C++，如果是初学者，就请完全按照文章的步骤进行。<br> <a href="https://vic.wang/blog/vscode/2021/04/10/VScode%E5%86%99C/" target="_blank" > 查看全文 </a>
+      description: 主要讲如何在 vscode 上实现编译 / 运行 / 调试 C 以及 C++，如果是初学者，就请完全按照文章的步骤进行。
       link: project-1
       links: https://vic.wang/blog/vscode/2021/04/10/VScode%E5%86%99C/
 
     - title: VScode写LaTex格式论文
       image: /images/P-latex.jpg
-      description: Windows 和 Linux 都能使用 TeXLive 和 VSCode，VSCode 是一个非常好用的编辑器。<br> <a href="https://vic.wang/blog/vscode/2021/04/09/VScode%E5%86%99LaTex%E6%A0%BC%E5%BC%8F%E8%AE%BA%E6%96%87/" target="_blank" > 查看全文 </a>
+      description: Windows 和 Linux 都能使用 TeXLive 和 VSCode，VSCode 是一个非常好用的编辑器。
       link: project-2
       links: https://vic.wang/blog/vscode/2021/04/09/VScode%E5%86%99LaTex%E6%A0%BC%E5%BC%8F%E8%AE%BA%E6%96%87/
 

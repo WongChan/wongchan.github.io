@@ -3,21 +3,25 @@
   category: AWP
   image: AWP-1.jpg
   description: 这把武器使用凯尔特龙的图案进行了自定义涂装。200 把钥匙绝对无法解开它的秘密。
+  link: http://4399.com
   
 - title: AWP | 鬼退治
   category: AWP
   image: AWP-2.png
   description: '运用了多彩的日本武士与鬼的手绘。 面对你内心的邪恶。'
-      
-# data.focus-2  
+  link: http://7k7k.com   
+
+#data.focus-2  
 - title: AK-47 | 皇后
   category: AK
   image: CS_AK-1.png
   description: 这把武器的定制灵感来源于塔罗牌中的皇后。 财富有多种形式。
+  link: http://baidu.com  
   
 # data.focus-3    
 - title: M4A1 消音型 | 女火神之炽焰
   category: M4
   image: CS_M4A1-1.jpg
   description: 这件武器手工涂装，色彩艳丽，枪托有笑脸装饰。 保护好属于你的。
+  link: http://bing.com  
 

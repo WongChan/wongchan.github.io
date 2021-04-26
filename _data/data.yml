@@ -42,7 +42,7 @@ focus:
     - title: CS:GO_AWP
       category: AWP
       image: /images/projects/csgo_1.png
-      description: 高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和—枪—个的准则而为人熟知。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      description: 高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和—枪—个的准则而为人熟知。 
       link: focus-1
       links: http://4399.com
 
@@ -50,7 +50,7 @@ focus:
     - title: CS:GO_AK
       category: AK
       image: /images/projects/csgo_2.png
-      description: 强大又可靠，AK-47是世上最流行的突击步枪之一，近距离内控制好的短点射击极为致命。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      description: 强大又可靠，AK-47是世上最流行的突击步枪之一，近距离内控制好的短点射击极为致命。 
       link: focus-2
       links: http://4399.com
 
@@ -58,7 +58,7 @@ focus:
     - title: CS:GO_M4
       category: M4
       image: /images/projects/csgo_3.png
-      description: 消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 <br> <a href="http://4399.com" target="_blank" > 查看原文 </a>
+      description: 消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 
       link: focus-3
       links: http://4399.com
 
